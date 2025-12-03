@@ -18,7 +18,7 @@
     Sliding Window / Two Pointers
         ✔ 1. CSES – Subarray Sums I 
         ✔ 2. CSES – Distinct Numbers  
-        3. Codeforces – 483A – Diverse Matrix
+        3. Codeforces – 443A – Anton and Letters
         4. Codeforces – 6A – Triangle (simple logic)
 
     Binary Search
